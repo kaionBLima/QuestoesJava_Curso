@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="entities.retangulo"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="entities.salarioFuncionario"/>
+    <fullyQualifiedTypeName name="util.CurrencyConverter"/>
+    <fullyQualifiedTypeName name="entities.banco"/>
+    <fullyQualifiedTypeName name="entities.Q3At1"/>
+    <fullyQualifiedTypeName name="application.Q3At1"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="entities.Q4At1program"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="entities.Q5At1program"/>
+    <fullyQualifiedTypeName name="java.util.Locale.Builder"/>
+    <fullyQualifiedTypeName name="entities.Q6At1program"/>
+    <fullyQualifiedTypeName name="entities.Q7At1program"/>
+    <fullyQualifiedTypeName name="entities.Q8At1program"/>
+    <fullyQualifiedTypeName name="entities.Q10At1program"/>
+</qualifiedTypeNameHistroy>

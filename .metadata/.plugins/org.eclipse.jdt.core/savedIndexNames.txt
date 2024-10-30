@@ -1,0 +1,9 @@
+INDEX VERSION 1.134+C:\questoesJava_Curso\.metadata\.plugins\org.eclipse.jdt.core
+2072054913.index
+102810003.index
+3678334452.index
+3800587579.index
+3224294619.index
+3453313424.index
+1865797976.index
+3299799327.index
